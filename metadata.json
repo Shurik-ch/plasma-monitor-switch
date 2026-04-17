@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Authors": [{ "Name": "Alexandr Anddryushenkov", "Email": "" }],
+        "Category": "Utilities",
+        "Description": "Switch monitor input sources via DDC/CI. Auto-detects connected monitors and available inputs. Requires ddcutil and i2c permissions.",
+        "Icon": "video-display",
+        "Id": "com.monitor.switch",
+        "License": "GPL-2.0-or-later",
+        "Name": "Monitor Switch",
+        "Version": "1.0",
+        "Website": "https://github.com/Shurik-ch/plasma-monitor-switch"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true"
+}
