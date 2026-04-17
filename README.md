@@ -1,5 +1,10 @@
 # Monitor Switch — KDE Plasma 6 Widget
 
+[![KDE Store](https://img.shields.io/badge/KDE%20Store-Monitor%20Switch-blue?logo=kde)](https://store.kde.org/p/2356142)
+[![GitHub stars](https://img.shields.io/github/stars/Shurik-ch/plasma-monitor-switch?style=flat)](https://github.com/Shurik-ch/plasma-monitor-switch/stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/Shurik-ch/plasma-monitor-switch)](https://github.com/Shurik-ch/plasma-monitor-switch/releases)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-green.svg)](LICENSE)
+
 A system tray widget for KDE Plasma 6 that lets you switch monitor input sources (DisplayPort, HDMI, etc.) directly from the desktop using DDC/CI.
 
 ![Monitor Switch Widget](https://raw.githubusercontent.com/Shurik-ch/plasma-monitor-switch/main/screenshot.png)
