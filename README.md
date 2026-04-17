@@ -24,6 +24,12 @@ A system tray widget for KDE Plasma 6 that lets you switch monitor input sources
 ### From KDE Store
 Search for **"Monitor Switch"** in *System Settings → Plasma Widgets → Get New Widgets*.
 
+### RPM (Fedora / RHEL)
+```bash
+sudo rpm -i plasma-monitor-switch-1.0-1.fc43.noarch.rpm
+```
+Download from [Releases](https://github.com/Shurik-ch/plasma-monitor-switch/releases).
+
 ### Manual
 ```bash
 git clone https://github.com/Shurik-ch/plasma-monitor-switch.git
@@ -71,4 +77,4 @@ To set custom names: right-click the widget → *Configure Monitor Switch* → *
 
 ## License
 
-GPL-2.0-or-later © Alexandr Anddryushenkov
+GPL-3.0-or-later © Alexandr Anddryushenkov
